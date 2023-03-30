@@ -1,0 +1,43 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+    background-color: rgb(235, 151, 217);;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+}
+
+.background-image
+{
+    position: absolute;
+    z-index: 0;
+    top: 300px;
+    margin-right: 1000px;
+}
+
+img 
+{
+    
+    width: 300px;
+    filter: blur(0px);
+
+}
+
+@media screen  and (max-width:565px){
+    
+}
+
+
+
+
+
+
+
+
+
+
